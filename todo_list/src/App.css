@@ -5,14 +5,14 @@ h1 {
   }
 
   body {
-    background: grey
+    background: blueviolet
   }
   #todo-list {
     width: 500px;
     margin: 60px auto;
   }
   form, .todo {
-    border: 1px solid rgb(15, 26, 61);
+    border: 3px solid rgb(15, 26, 61);
     padding: 10px 20px;
     margin-bottom: 10px;
   }
